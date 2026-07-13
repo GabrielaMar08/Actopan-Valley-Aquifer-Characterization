@@ -36,7 +36,7 @@ The field campaign included:
 - QGIS
 - IPI2Win
 - Surfer
-- Google Earth
+- Python
 - Microsoft Excel
 
 ---
